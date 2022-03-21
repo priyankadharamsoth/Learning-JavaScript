@@ -1,2 +1,3 @@
 # JavaScript
-basics of javascript
+basics of javascript 
+learnings
